@@ -6,4 +6,9 @@ source_metadata:
 
     '
   author: ''
-  volumes: {}
+  volumes:
+    f7b3cb6e7e9e43dab0256d6bf5ebadf4:
+      image_group_id: I3CN6690
+      title: ''
+      volume_number: 1
+      total_pages: 33
